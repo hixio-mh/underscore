@@ -31,7 +31,7 @@
     "pretty-bytes-cli": "^1.0.0",
     "qunit": "^2.6.0",
     "qunit-cli": "~0.2.0",
-    "rollup": "^0.59.4",
+    "rollup": "^0.68.2",
     "uglify-js": "3.3.21"
   },
   "scripts": {
